@@ -2,11 +2,11 @@ package com.yff;
 
 public class Hello {
 
-    private String str="hello word";
+    private String str="hello word2";
 
 
     public static void main(String[] args) {
-        int i = 2;
-        System.out.println("helloword1");
+        int i = 22;
+        System.out.println("helloword2");
     }
 }
